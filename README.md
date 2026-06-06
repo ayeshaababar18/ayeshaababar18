@@ -56,4 +56,4 @@ A native mobile productivity application focused on environmental habit tracking
 
 ### 🌐 Professional Networks
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />]www.linkedin.com/in/ayeshababar18
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayeshababar18)
