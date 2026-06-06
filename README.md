@@ -48,19 +48,13 @@ A native mobile productivity application focused on environmental habit tracking
 
 ---
 
+---
+
 ### 📊 GitHub Ecosystem
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaababar18&show_icons=true&theme=tokyonight" alt="Ayesha's GitHub Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=ayeshaababar18&show_icons=true&theme=tokyonight" alt="Ayesha's GitHub Stats" />
 </p>
-
-<!-- ALTERNATIVE OPTION IF THE ONE ABOVE STAYS BROKEN: -->
-<!-- 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeshaababar18&theme=tokyonight" alt="Ayesha's GitHub Stats" />
-</p> 
--->
-
 ---
 
 ### 🌐 Professional Networks
