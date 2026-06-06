@@ -23,10 +23,11 @@ I am a final-year Software Engineering student at Capital University of Science 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Front-End & Web** | `React.js` `JavaScript` `HTML5` `CSS3` |
-| **Backend & Systems** | `C#` `.NET Core` `Java` |
-| **Mobile & Engines** | `Android Studio` `Unity 3D` |
-| **Databases** | `SQL Server` `SQLite` |
+| **Front-End & Web** | `React.js` `JavaScript (ES6+)` `AngularJS` `HTML5` `CSS3` |
+| **Backend Frameworks** | `C#` `.NET Core` `ASP.NET Core` `Java` |
+| **Mobile & Game Engines** | `Android Studio` `Unity 3D` `Google Cardboard (VR)` |
+| **Databases & Storage** | `Microsoft SQL Server` `SQLite` `Relational DB Design` |
+| **Architectures & Design** | `SOLID Principles` `Software Re-engineering` `BPMN` |
 
 ---
 
@@ -46,15 +47,12 @@ A native mobile productivity application focused on environmental habit tracking
 
 ---
 
----
-
----
-
 ### 📊 GitHub Ecosystem
 
 <p align="left">
   <img src="https://github-readme-stats-two-nu.vercel.app/api?username=ayeshaababar18&show_icons=true&theme=tokyonight" alt="Ayesha's GitHub Stats" />
 </p>
+
 ---
 
 ### 🌐 Professional Networks
